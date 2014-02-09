@@ -39,6 +39,7 @@ module HammerCLIForeman
   require 'hammer_cli_foreman/subnet'
   require 'hammer_cli_foreman/template'
   require 'hammer_cli_foreman/user'
+  require 'hammer_cli_foreman/task'
 
 end
 

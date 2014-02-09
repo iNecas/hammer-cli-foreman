@@ -26,5 +26,6 @@ EOF
 
   s.add_dependency 'hammer_cli', '>= 0.0.18'
   s.add_dependency 'foreman_api', '>= 0.1.11'
+  s.add_dependency 'powerbar'
 
 end
